@@ -23,7 +23,7 @@ TouchDesigner를 활용하여 인터랙티브 미디어아트 제작
 - TouchDesigner를 활용한 미디어 아트 첫 제작.
 - 미디어아트 작품에 대한 전반적인 이해.  
 
-![동영상](https://youtu.be/iVLlfBn-c50)  
+[동영상](https://youtu.be/iVLlfBn-c50)  
 
 ---
 
@@ -49,7 +49,7 @@ Created interactive media art using **TouchDesigner**.
 - First interactive media art project using **TouchDesigner**.  
 - Gained a comprehensive understanding of media art creation.  
 
-![Video](https://youtu.be/iVLlfBn-c50)  
+[Video](https://youtu.be/iVLlfBn-c50)  
 
 ---
 
@@ -75,4 +75,4 @@ Created interactive media art using **TouchDesigner**.
 - **TouchDesigner** を活用した初のメディアアート制作。  
 - メディアアート作品制作の全体的な理解を深めることができた。  
 
-![動画](https://youtu.be/iVLlfBn-c50)  
+[動画](https://youtu.be/iVLlfBn-c50)  
